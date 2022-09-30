@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/leesaewa/react_todo/static/css/main.db92fc76.css",
-    "main.js": "/leesaewa/react_todo/static/js/main.18b09529.js",
-    "index.html": "/leesaewa/react_todo/index.html",
-    "main.db92fc76.css.map": "/leesaewa/react_todo/static/css/main.db92fc76.css.map",
-    "main.18b09529.js.map": "/leesaewa/react_todo/static/js/main.18b09529.js.map"
+    "main.css": "/react_todo/static/css/main.db92fc76.css",
+    "main.js": "/react_todo/static/js/main.18b09529.js",
+    "index.html": "/react_todo/index.html",
+    "main.db92fc76.css.map": "/react_todo/static/css/main.db92fc76.css.map",
+    "main.18b09529.js.map": "/react_todo/static/js/main.18b09529.js.map"
   },
   "entrypoints": [
     "static/css/main.db92fc76.css",
